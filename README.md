@@ -20,13 +20,13 @@ Efficient molecular property prediction is crucial in bioinformatics and cheminf
 
 ## Pretrained Models
 
-The pretrained **MolHFCNet-CFC** and **MolHFCNet-GTN** models used in this framework are hosted on HuggingFace:
+The pretrained **MolHFCNet-CFC** and **MolHFCNet-GIN** models used in this framework are hosted on HuggingFace:
 
-- Download them from [ndlong/MolHFCNet](https://huggingface.co/ndlong/MolHFCNet/tree/main).
+- Download them from [ndlong/molhfcnet](https://huggingface.co/ndlong/molhfcnet/tree/main).
 
 Clone the model weights into the `ckpt` folder:
 ```bash
-git clone https://huggingface.co/ndlong/MolHFCNet ckpt
+git clone https://huggingface.co/ndlong/molhfcnet ckpt
 ```
 
 ---
