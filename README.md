@@ -24,7 +24,7 @@ The pretrained **MolHFCNet-CFC** and **MolHFCNet-GTN** models used in this frame
 
 - Download them from [ndlong/MolHFCNet](https://huggingface.co/ndlong/MolHFCNet/tree/main).
 
-Clone the model weights into the `weights` folder:
+Clone the model weights into the `ckpt` folder:
 ```bash
 git clone https://huggingface.co/ndlong/MolHFCNet ckpt
 ```
@@ -37,7 +37,7 @@ We tested our framework on:
 - **MoleculeNet Datasets** for molecular property prediction.
 - **Atom3D Datasets** for binding affinity prediction.
 
-For access to MoleculeNet Datasets, please contact **[Dr. Binh Nguyen](mailto:binh.p.nguyen@vuw.ac.nz)** or **[me](nguyenlong3@myvuw.ac.nz)**. With Atom3D Datasets, we followed the setting of **[GeoSSL](https://github.com/chao1224/GeoSSL)**.
+For access to MoleculeNet Datasets, please contact **[Prof. Binh Nguyen](mailto:binh.p.nguyen@vuw.ac.nz)** or **[me](nguyenlong3@myvuw.ac.nz)**. With Atom3D Datasets, we followed the setting of **[GeoSSL](https://github.com/chao1224/GeoSSL)**.
 
 ---
 
