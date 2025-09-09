@@ -1,0 +1,54 @@
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+env/
+venv/
+*.egg
+dist/
+build/
+
+# Conda
+*.conda
+*.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# Docker
+*.pid
+*.tar
+.dockerignore
+
+# Node.js (if you use JS tooling)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.iml
+
+# Test / coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
